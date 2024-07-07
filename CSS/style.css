@@ -1,0 +1,50 @@
+.containerr {
+    background-color: rgb(227, 105, 125);
+    width: 100%;
+    height: 710px;
+    display: flex;
+    flex-direction: column;
+}
+
+.headerr{
+    background-color: pink;
+    margin: 10px;
+    height: 190px;
+}
+
+.containerr2{
+    background-color: rgb(227, 105, 125);
+    width: 100%;
+    height: 280px;
+    display: flex;
+    flex-direction: raw;
+}
+
+.item{
+    background-color: pink;
+    width: 350px;
+    height: 260px;
+    margin: 10px;
+    justify-content: space-between;
+    flex-grow: 1;
+
+}
+
+.foteer{
+    background-color: pink;
+    margin: 10px;
+    height: 190px;
+    display: flex;
+    flex-direction: raw;
+}
+
+.otheritm{
+    background-color:rgb(227, 105, 125) ;
+    width: 200px;
+    height: 170px;
+    margin: 10px;
+    justify-content: space-between;
+    flex-grow: 1;
+
+}
+
